@@ -1,4 +1,4 @@
-import { HTTPMethods, HTTPStatuses } from './enums';
+import { HTTPMethods } from './enums';
 
 type ReqBodyType = {
   name?: string;
